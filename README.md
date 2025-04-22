@@ -3,7 +3,7 @@
 **Integrated Regional Sales Dashboard using Power BI**
 
 ## 📁 Project Description:
-This Power BI report demonstrates **data integration from two different sources**, as part of **Task 2** for the CodTech internship. The goal is to merge and analyze sales and region-based data, and create a unified, insightful dashboard.
+This Power BI report demonstrates **data integration from two different sources**. The goal is to merge and analyze sales and region-based data, and create a unified, insightful dashboard.
 
 ## 🔍 Objective:
 - Integrate data from **two Excel sources**:  
